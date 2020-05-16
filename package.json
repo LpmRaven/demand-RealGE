@@ -1,0 +1,8 @@
+{
+  "name": "demand-realge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:LpmRaven/demand-realge.git",
+  "author": "LpmRaven <liamraven@gmail.com>",
+  "license": "MIT"
+}
